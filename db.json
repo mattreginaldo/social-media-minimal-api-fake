@@ -46,5 +46,37 @@
 		"fullname": "Mateus Reginaldo",
 		"email": "mateus.reginaldo@usabit.com.br",
 		"role": "Desenvolvedor Front-End"
+	},
+	"roles": {
+		"web": [
+			{ "label": "Desenvolvimento Front-end", "id": 1 },
+			{ "label": "Desenvolvimento Back-end", "id": 2 },
+			{ "label": "Design de Interfaces", "id": 3 },
+			{ "label": "Arquitetura de Informação", "id": 4 },
+			{ "label": "SEO (Otimização para Motores de Busca)", "id": 5 },
+			{ "label": "Marketing Digital", "id": 6 },
+			{ "label": "E-commerce", "id": 7 },
+			{
+				"label": "Desenvolvimento de Aplicações Web Progressivas (PWA)",
+				"id": 8
+			},
+			{ "label": "Segurança da Informação", "id": 9 },
+			{ "label": "Análise de Dados Web", "id": 10 },
+			{ "label": "Cloud Computing", "id": 11 },
+			{ "label": "Integração de APIs", "id": 12 },
+			{ "label": "Desenvolvimento de Chatbots", "id": 13 },
+			{ "label": "Desenvolvimento iOS", "id": 14 },
+			{ "label": "Desenvolvimento Android", "id": 15 },
+			{ "label": "Desenvolvimento Cross-platform", "id": 16 },
+			{ "label": "Design de Interfaces para Mobile", "id": 17 },
+			{ "label": "Desenvolvimento de Aplicações Híbridas", "id": 18 },
+			{ "label": "Desenvolvimento de Jogos para Mobile", "id": 19 },
+			{ "label": "Realidade Aumentada", "id": 20 },
+			{ "label": "Segurança em Dispositivos Móveis", "id": 21 },
+			{ "label": "Integração com Dispositivos IoT", "id": 22 },
+			{ "label": "Desenvolvimento de Aplicações de Saúde Mobile", "id": 23 },
+			{ "label": "Desenvolvimento de Aplicações de Finanças Mobile", "id": 24 },
+			{ "label": "Machine Learning em Dispositivos Móveis", "id": 25 }
+		]
 	}
 }
