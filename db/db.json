@@ -1,0 +1,77 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"body": "Fala galeraa 👋. Vocês viram a nova versão do React? 🚀 👉",
+			"publishedAt": "2024-05-12T10:15:00",
+			"author": {
+				"photo": "https://img.freepik.com/free-photo/artist-white_1368-3546.jpg",
+				"fullname": "João da Silva",
+				"role": "Desenvolvedor Front-End"
+			}
+		},
+		{
+			"id": 2,
+			"body": "Trabalhando em um projeto incrível usando Next! Estou amando a experiência até agora. 😊",
+			"publishedAt": "2024-05-11T14:30:00",
+			"author": {
+				"photo": "https://randomuser.me/api/portraits/men/1.jpg",
+				"fullname": "Ana Costa",
+				"role": "Engenheira de Software"
+			}
+		},
+		{
+			"id": 3,
+			"body": "Finalmente terminei de aprender CSS Grid! Quem mais está animado para usar essa técnica?",
+			"publishedAt": "2024-05-10T11:45:00",
+			"author": {
+				"photo": "https://randomuser.me/api/portraits/women/2.jpg",
+				"fullname": "Pedro Almeida",
+				"role": "Designer de Interfaces"
+			}
+		},
+		{
+			"id": 4,
+			"body": "Em busca de novos desafios! Estou disponível para freelas de desenvolvimento web. 😄",
+			"publishedAt": "2024-05-09T09:20:00",
+			"author": {
+				"photo": "https://randomuser.me/api/portraits/men/2.jpg",
+				"fullname": "Mariana Oliveira",
+				"role": "Desenvolvedora Full-Stack"
+			}
+		}
+	],
+	"user": {
+		"photo": "https://img.freepik.com/free-photo/artist-white_1368-3546.jpg",
+		"fullname": "Mateus Reginaldo",
+		"email": "mateus.reginaldo@usabit.com.br",
+		"role": "Desenvolvimento Front-end"
+	},
+	"roles": [
+		"Desenvolvimento Front-end",
+		"Desenvolvimento Back-end",
+		"Design de Interfaces",
+		"Arquitetura de Informação",
+		"SEO (Otimização para Motores de Busca)",
+		"Marketing Digital",
+		"E-commerce",
+		"Desenvolvimento de Aplicações Web Progressivas (PWA)",
+		"Segurança da Informação",
+		"Análise de Dados Web",
+		"Cloud Computing",
+		"Integração de APIs",
+		"Desenvolvimento de Chatbots",
+		"Desenvolvimento iOS",
+		"Desenvolvimento Android",
+		"Desenvolvimento Cross-platform",
+		"Design de Interfaces para Mobile",
+		"Desenvolvimento de Aplicações Híbridas",
+		"Desenvolvimento de Jogos para Mobile",
+		"Realidade Aumentada",
+		"Segurança em Dispositivos Móveis",
+		"Integração com Dispositivos IoT",
+		"Desenvolvimento de Aplicações de Saúde Mobile",
+		"Desenvolvimento de Aplicações de Finanças Mobile",
+		"Machine Learning em Dispositivos Móveis"
+	]
+}
