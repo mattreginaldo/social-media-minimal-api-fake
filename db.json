@@ -43,7 +43,8 @@
 	],
 	"user": {
 		"photo": "https://img.freepik.com/free-photo/artist-white_1368-3546.jpg",
-		"fullname": "João da Silva",
+		"fullname": "Mateus Reginaldo",
+		"email": "mateus.reginaldo@usabit.com.br",
 		"role": "Desenvolvedor Front-End"
 	}
 }
