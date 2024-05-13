@@ -1,6 +1,6 @@
 # Social REST API
 
-Uma api fake que traz dados iniciais para posts, profile e roles e que pode ser usada para testar um CRUD.
+Uma api fake que traz dados iniciais para posts, user e roles e que pode ser usada para testar um CRUD.
 
 ## Requisitos
 
@@ -10,7 +10,7 @@ Uma api fake que traz dados iniciais para posts, profile e roles e que pode ser 
 
 Veja mais em [json-server](https://github.com/typicode/json-server/tree/v0?tab=readme-ov-file#getting-started)
 
-## Rodando projeto
+## Rodando projeto localmente
 
 Rodar este projeto é simples:
 
