@@ -37,7 +37,9 @@ A hospedagem da API fo feita no Vercel, pode ser acessada em:
 Assim como as rotas: 
 
 [https://social-media-minimal-api-fake.vercel.app/posts](https://social-media-minimal-api-fake.vercel.app/posts)
+
 [https://social-media-minimal-api-fake.vercel.app/user](https://social-media-minimal-api-fake.vercel.app/user)
+
 [https://social-media-minimal-api-fake.vercel.app/roles](https://social-media-minimal-api-fake.vercel.app/roles)
 
 ## Consideranções sobre a API Fake
